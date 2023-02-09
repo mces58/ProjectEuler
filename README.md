@@ -1,2 +1,3 @@
 # ProjectEuler
-Solving ProjectEuler problems
+
+***The solutions of ProjectEuler problems are available in JAVA and PYTHON languages.***
