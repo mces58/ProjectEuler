@@ -9,6 +9,10 @@
 <table border="1">
 <tr>
 <td>
+<div align="center">
+</br>
+<img src="https://user-images.githubusercontent.com/72516854/222920816-b993b63c-56ab-4af7-8b5a-10b5d6aa68ca.gif" alt="java-icon" />
+</div>
 <h2 align="center">JAVA CODE</h2>
 <h4>
 <strong><em>Problem solved using Java</em></strong>
@@ -22,6 +26,10 @@ href="https://github.com/mces58/ProjectEuler/blob/main/Java/Problem1/src/Main.ja
 </p>
 </td>
 <td>
+<div align="center">
+</br>
+<img src="https://user-images.githubusercontent.com/72516854/222920852-6cbec805-4739-4e61-90e1-6916b397300e.gif" alt="title-icon" />
+</div>
 <h2 align="center">TITLE</h2>
 <h4>
 <strong>
@@ -32,6 +40,10 @@ href="https://github.com/mces58/ProjectEuler/blob/main/Java/Problem1/src/Main.ja
 <p align="center"><em>Multiples of 3 or 5</em></p>
 </td>
 <td>
+<div align="center">
+</br>
+<img src="https://user-images.githubusercontent.com/72516854/222920773-56faad77-c097-4436-980e-ed1266a459b9.gif" alt="python-icon" />
+</div>
 <h2 align="center">PYTHON CODE</h2>
 <h4>
 <strong><em>Problem solved using Python</em></strong>
