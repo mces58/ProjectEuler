@@ -1,5 +1,6 @@
+
 </br>
-<div align="center">
+<div align="center" id="top">
   <img src="https://user-images.githubusercontent.com/72516854/222898457-6cb7af06-a1d9-4580-8534-351a2923d112.gif" width="800" />
 </div>
 
@@ -633,5 +634,30 @@ href="https://github.com/mces58/ProjectEuler/blob/main/Python/Problem26.py">
 </td>
 </tr>
 
+<tr>
+<td>
+<p align="center">
+<a
+href="https://github.com/mces58/ProjectEuler/blob/main/Java/Problem27/src/Main.java">
+<strong>Problem 27</strong>
+</a>
+</p>
+</td>
+<td>
+<p align="center"><em>Quadratic primes</em></p>
+</td>
+<td>
+<p align="center">
+<a
+href="https://github.com/mces58/ProjectEuler/blob/main/Python/Problem27.py">
+<strong>Problem 27</strong>
+</a>
+</p>
+</td>
+</tr>
 </table>
+
+<div align="right">
+<a href="#top">↑ Back to top</a>
+</div>
 </div>
