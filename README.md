@@ -678,6 +678,28 @@ href="https://github.com/mces58/ProjectEuler/blob/main/Python/Problem28.py">
 </td>
 </tr>
 
+<tr>
+<td>
+<p align="center">
+<a
+href="https://github.com/mces58/ProjectEuler/blob/main/Java/Problem29/src/Main.java">
+<strong>Problem 29</strong>
+</a>
+</p>
+</td>
+<td>
+<p align="center"><em>Distinct powers</em></p>
+</td>
+<td>
+<p align="center">
+<a
+href="https://github.com/mces58/ProjectEuler/blob/main/Python/Problem29.py">
+<strong>Problem 29</strong>
+</a>
+</p>
+</td>
+</tr>
+
 </table>
 
 <div align="right">
