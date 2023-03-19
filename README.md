@@ -722,6 +722,28 @@ href="https://github.com/mces58/ProjectEuler/blob/main/Python/Problem30.py">
 </td>
 </tr>
 
+<tr>
+<td>
+<p align="center">
+<a
+href="https://github.com/mces58/ProjectEuler/blob/main/Java/Problem31/src/Main.java">
+<strong>Problem 31</strong>
+</a>
+</p>
+</td>
+<td>
+<p align="center"><em>Coin sums</em></p>
+</td>
+<td>
+<p align="center">
+<a
+href="https://github.com/mces58/ProjectEuler/blob/main/Python/Problem31.py">
+<strong>Problem 31</strong>
+</a>
+</p>
+</td>
+</tr>
+
 </table>
 
 <div align="right">
