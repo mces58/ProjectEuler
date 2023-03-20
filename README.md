@@ -744,6 +744,28 @@ href="https://github.com/mces58/ProjectEuler/blob/main/Python/Problem31.py">
 </td>
 </tr>
 
+<tr>
+<td>
+<p align="center">
+<a
+href="https://github.com/mces58/ProjectEuler/blob/main/Java/Problem32/src/Main.java">
+<strong>Problem 32</strong>
+</a>
+</p>
+</td>
+<td>
+<p align="center"><em>Pandigital products</em></p>
+</td>
+<td>
+<p align="center">
+<a
+href="https://github.com/mces58/ProjectEuler/blob/main/Python/Problem32.py">
+<strong>Problem 32</strong>
+</a>
+</p>
+</td>
+</tr>
+
 </table>
 
 <div align="right">
