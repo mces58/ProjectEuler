@@ -766,6 +766,28 @@ href="https://github.com/mces58/ProjectEuler/blob/main/Python/Problem32.py">
 </td>
 </tr>
 
+<tr>
+<td>
+<p align="center">
+<a
+href="https://github.com/mces58/ProjectEuler/blob/main/Java/Problem33/src/Main.java">
+<strong>Problem 33</strong>
+</a>
+</p>
+</td>
+<td>
+<p align="center"><em>Digit cancelling fractions</em></p>
+</td>
+<td>
+<p align="center">
+<a
+href="https://github.com/mces58/ProjectEuler/blob/main/Python/Problem33.py">
+<strong>Problem 33</strong>
+</a>
+</p>
+</td>
+</tr>
+
 </table>
 
 <div align="right">
