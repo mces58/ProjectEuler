@@ -788,6 +788,28 @@ href="https://github.com/mces58/ProjectEuler/blob/main/Python/Problem33.py">
 </td>
 </tr>
 
+<tr>
+<td>
+<p align="center">
+<a
+href="https://github.com/mces58/ProjectEuler/blob/main/Java/Problem34/src/Main.java">
+<strong>Problem 34</strong>
+</a>
+</p>
+</td>
+<td>
+<p align="center"><em>Digit factorials</em></p>
+</td>
+<td>
+<p align="center">
+<a
+href="https://github.com/mces58/ProjectEuler/blob/main/Python/Problem34.py">
+<strong>Problem 34</strong>
+</a>
+</p>
+</td>
+</tr>
+
 </table>
 
 <div align="right">
