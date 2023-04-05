@@ -810,6 +810,28 @@ href="https://github.com/mces58/ProjectEuler/blob/main/Python/Problem34.py">
 </td>
 </tr>
 
+<tr>
+<td>
+<p align="center">
+<a
+href="https://github.com/mces58/ProjectEuler/blob/main/Java/Problem35/src/Main.java">
+<strong>Problem 35</strong>
+</a>
+</p>
+</td>
+<td>
+<p align="center"><em>Circular primes</em></p>
+</td>
+<td>
+<p align="center">
+<a
+href="https://github.com/mces58/ProjectEuler/blob/main/Python/Problem35.py">
+<strong>Problem 35</strong>
+</a>
+</p>
+</td>
+</tr>
+
 </table>
 
 <div align="right">
