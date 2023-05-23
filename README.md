@@ -854,6 +854,28 @@ href="https://github.com/mces58/ProjectEuler/blob/main/Python/Problem36.py">
 </td>
 </tr>
 
+<tr>
+<td>
+<p align="center">
+<a
+href="https://github.com/mces58/ProjectEuler/blob/main/Java/Problem37/src/Main.java">
+<strong>Problem 37</strong>
+</a>
+</p>
+</td>
+<td>
+<p align="center"><em>Truncatable primes</em></p>
+</td>
+<td>
+<p align="center">
+<a
+href="https://github.com/mces58/ProjectEuler/blob/main/Python/Problem37.py">
+<strong>Problem 37</strong>
+</a>
+</p>
+</td>
+</tr>
+
 </table>
 
 <div align="right">
