@@ -876,6 +876,28 @@ href="https://github.com/mces58/ProjectEuler/blob/main/Python/Problem37.py">
 </td>
 </tr>
 
+<tr>
+<td>
+<p align="center">
+<a
+href="https://github.com/mces58/ProjectEuler/blob/main/Java/Problem38/src/Main.java">
+<strong>Problem 38</strong>
+</a>
+</p>
+</td>
+<td>
+<p align="center"><em>Pandigital Multiples</em></p>
+</td>
+<td>
+<p align="center">
+<a
+href="https://github.com/mces58/ProjectEuler/blob/main/Python/Problem38.py">
+<strong>Problem 38</strong>
+</a>
+</p>
+</td>
+</tr>
+
 </table>
 
 <div align="right">
