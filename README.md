@@ -920,6 +920,28 @@ href="https://github.com/mces58/ProjectEuler/blob/main/Python/Problem39.py">
 </td>
 </tr>
 
+<tr>
+<td>
+<p align="center">
+<a
+href="https://github.com/mces58/ProjectEuler/blob/main/Java/Problem40/src/Main.java">
+<strong>Problem 40</strong>
+</a>
+</p>
+</td>
+<td>
+<p align="center"><em>Champernowne's Constant</em></p>
+</td>
+<td>
+<p align="center">
+<a
+href="https://github.com/mces58/ProjectEuler/blob/main/Python/Problem40.py">
+<strong>Problem 40</strong>
+</a>
+</p>
+</td>
+</tr>
+
 </table>
 
 <div align="right">
