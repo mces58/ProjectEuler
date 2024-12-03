@@ -898,6 +898,28 @@ href="https://github.com/mces58/ProjectEuler/blob/main/Python/Problem38.py">
 </td>
 </tr>
 
+<tr>
+<td>
+<p align="center">
+<a
+href="https://github.com/mces58/ProjectEuler/blob/main/Java/Problem39/src/Main.java">
+<strong>Problem 39</strong>
+</a>
+</p>
+</td>
+<td>
+<p align="center"><em>Integer Right Triangles</em></p>
+</td>
+<td>
+<p align="center">
+<a
+href="https://github.com/mces58/ProjectEuler/blob/main/Python/Problem39.py">
+<strong>Problem 39</strong>
+</a>
+</p>
+</td>
+</tr>
+
 </table>
 
 <div align="right">
