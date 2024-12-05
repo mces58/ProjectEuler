@@ -942,6 +942,28 @@ href="https://github.com/mces58/ProjectEuler/blob/main/Python/Problem40.py">
 </td>
 </tr>
 
+<tr>
+<td>
+<p align="center">
+<a
+href="https://github.com/mces58/ProjectEuler/blob/main/Java/Problem41/src/Main.java">
+<strong>Problem 41</strong>
+</a>
+</p>
+</td>
+<td>
+<p align="center"><em>Pandigital Prime</em></p>
+</td>
+<td>
+<p align="center">
+<a
+href="https://github.com/mces58/ProjectEuler/blob/main/Python/Problem41.py">
+<strong>Problem 41</strong>
+</a>
+</p>
+</td>
+</tr>
+
 </table>
 
 <div align="right">
