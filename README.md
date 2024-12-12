@@ -1008,6 +1008,28 @@ href="https://github.com/mces58/ProjectEuler/blob/main/Python/Problem43.py">
 </td>
 </tr>
 
+<tr>
+<td>
+<p align="center">
+<a
+href="https://github.com/mces58/ProjectEuler/blob/main/Java/Problem44/src/Main.java">
+<strong>Problem 44</strong>
+</a>
+</p>
+</td>
+<td>
+<p align="center"><em>Pentagon Numbers</em></p>
+</td>
+<td>
+<p align="center">
+<a
+href="https://github.com/mces58/ProjectEuler/blob/main/Python/Problem44.py">
+<strong>Problem 44</strong>
+</a>
+</p>
+</td>
+</tr>
+
 </table>
 
 <div align="right">
