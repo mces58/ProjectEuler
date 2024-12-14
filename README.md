@@ -1030,6 +1030,28 @@ href="https://github.com/mces58/ProjectEuler/blob/main/Python/Problem44.py">
 </td>
 </tr>
 
+<tr>
+<td>
+<p align="center">
+<a
+href="https://github.com/mces58/ProjectEuler/blob/main/Java/Problem45/src/Main.java">
+<strong>Problem 45</strong>
+</a>
+</p>
+</td>
+<td>
+<p align="center"><em>Triangular, Pentagonal, and Hexagonal</em></p>
+</td>
+<td>
+<p align="center">
+<a
+href="https://github.com/mces58/ProjectEuler/blob/main/Python/Problem45.py">
+<strong>Problem 45</strong>
+</a>
+</p>
+</td>
+</tr>
+
 </table>
 
 <div align="right">
