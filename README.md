@@ -1052,6 +1052,28 @@ href="https://github.com/mces58/ProjectEuler/blob/main/Python/Problem45.py">
 </td>
 </tr>
 
+<tr>
+<td>
+<p align="center">
+<a
+href="https://github.com/mces58/ProjectEuler/blob/main/Java/Problem46/src/Main.java">
+<strong>Problem 46</strong>
+</a>
+</p>
+</td>
+<td>
+<p align="center"><em>Goldbach's Other Conjecture</em></p>
+</td>
+<td>
+<p align="center">
+<a
+href="https://github.com/mces58/ProjectEuler/blob/main/Python/Problem46.py">
+<strong>Problem 46</strong>
+</a>
+</p>
+</td>
+</tr>
+
 </table>
 
 <div align="right">
