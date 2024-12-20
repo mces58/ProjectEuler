@@ -1096,6 +1096,28 @@ href="https://github.com/mces58/ProjectEuler/blob/main/Python/Problem47.py">
 </td>
 </tr>
 
+<tr>
+<td>
+<p align="center">
+<a
+href="https://github.com/mces58/ProjectEuler/blob/main/Java/Problem48/src/Main.java">
+<strong>Problem 48</strong>
+</a>
+</p>
+</td>
+<td>
+<p align="center"><em>Self Powers</em></p>
+</td>
+<td>
+<p align="center">
+<a
+href="https://github.com/mces58/ProjectEuler/blob/main/Python/Problem48.py">
+<strong>Problem 48</strong>
+</a>
+</p>
+</td>
+</tr>
+
 </table>
 
 <div align="right">
