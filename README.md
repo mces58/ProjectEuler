@@ -1140,6 +1140,28 @@ href="https://github.com/mces58/ProjectEuler/blob/main/Python/Problem49.py">
 </td>
 </tr>
 
+<tr>
+<td>
+<p align="center">
+<a
+href="https://github.com/mces58/ProjectEuler/blob/main/Java/Problem50/src/Main.java">
+<strong>Problem 50</strong>
+</a>
+</p>
+</td>
+<td>
+<p align="center"><em>Consecutive Prime Sum</em></p>
+</td>
+<td>
+<p align="center">
+<a
+href="https://github.com/mces58/ProjectEuler/blob/main/Python/Problem50.py">
+<strong>Problem 50</strong>
+</a>
+</p>
+</td>
+</tr>
+
 </table>
 
 <div align="right">
