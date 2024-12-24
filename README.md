@@ -1162,6 +1162,28 @@ href="https://github.com/mces58/ProjectEuler/blob/main/Python/Problem50.py">
 </td>
 </tr>
 
+<tr>
+<td>
+<p align="center">
+<a
+href="https://github.com/mces58/ProjectEuler/blob/main/Java/Problem51/src/Main.java">
+<strong>Problem 51</strong>
+</a>
+</p>
+</td>
+<td>
+<p align="center"><em>Prime Digit Replacements</em></p>
+</td>
+<td>
+<p align="center">
+<a
+href="https://github.com/mces58/ProjectEuler/blob/main/Python/Problem51.py">
+<strong>Problem 51</strong>
+</a>
+</p>
+</td>
+</tr>
+
 </table>
 
 <div align="right">
