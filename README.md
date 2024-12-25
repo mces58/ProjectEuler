@@ -1184,6 +1184,28 @@ href="https://github.com/mces58/ProjectEuler/blob/main/Python/Problem51.py">
 </td>
 </tr>
 
+<tr>
+<td>
+<p align="center">
+<a
+href="https://github.com/mces58/ProjectEuler/blob/main/Java/Problem52/src/Main.java">
+<strong>Problem 52</strong>
+</a>
+</p>
+</td>
+<td>
+<p align="center"><em>Permuted Multiples</em></p>
+</td>
+<td>
+<p align="center">
+<a
+href="https://github.com/mces58/ProjectEuler/blob/main/Python/Problem52.py">
+<strong>Problem 52</strong>
+</a>
+</p>
+</td>
+</tr>
+
 </table>
 
 <div align="right">
