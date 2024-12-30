@@ -1206,6 +1206,28 @@ href="https://github.com/mces58/ProjectEuler/blob/main/Python/Problem52.py">
 </td>
 </tr>
 
+<tr>
+<td>
+<p align="center">
+<a
+href="https://github.com/mces58/ProjectEuler/blob/main/Java/Problem53/src/Main.java">
+<strong>Problem 53</strong>
+</a>
+</p>
+</td>
+<td>
+<p align="center"><em>Combinatoric Selections</em></p>
+</td>
+<td>
+<p align="center">
+<a
+href="https://github.com/mces58/ProjectEuler/blob/main/Python/Problem53.py">
+<strong>Problem 53</strong>
+</a>
+</p>
+</td>
+</tr>
+
 </table>
 
 <div align="right">
