@@ -1228,6 +1228,28 @@ href="https://github.com/mces58/ProjectEuler/blob/main/Python/Problem53.py">
 </td>
 </tr>
 
+<tr>
+<td>
+<p align="center">
+<a
+href="https://github.com/mces58/ProjectEuler/blob/main/Java/Problem54/src/Main.java">
+<strong>Problem 54</strong>
+</a>
+</p>
+</td>
+<td>
+<p align="center"><em>Poker Hands</em></p>
+</td>
+<td>
+<p align="center">
+<a
+href="https://github.com/mces58/ProjectEuler/blob/main/Python/Problem54.py">
+<strong>Problem 54</strong>
+</a>
+</p>
+</td>
+</tr>
+
 </table>
 
 <div align="right">
